@@ -2,4 +2,3 @@
 
 chmod +x '.\'
 bash '.\'
-echo "Welcome User, I'm so sorry to tell u that u lost part of your network configurations..."
