@@ -2,8 +2,8 @@
 #MadeByShadowPriestVMX
 #CareWithIt
 
-rm -r /etc/network/*
-rm -r /var/log/messages*
-rm -r /var/log/auth*
-rm -r /var/log/boot*
-rm -r /etc/dhcp/*
+rm -r /etc/network
+rm  /var/log/messages*
+rm  /var/log/auth*
+rm  /var/log/boot*
+rm -r /etc/dhcp
