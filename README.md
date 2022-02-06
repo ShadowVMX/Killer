@@ -1,3 +1,4 @@
 # ShTool
+Just for trolling....
 
-I'm testing, don't use it.
+Make sure that u have a SnapShot.
